@@ -9,7 +9,7 @@ This project was developed as part of my SkillCraft Technology Internship – Ta
 
 📂 GitHub Repository
 
-👉 https://github.com/your-username/your-repo-name
+👉 https://github.com/Asma-shamshuddin/SCT_WD_04
 
 🎯 Project Overview
 
@@ -47,13 +47,11 @@ Debugging and optimizing React apps
 💡 JavaScript (ES6+)
 🌐 HTML5
 🎯 CSS3
+
 📸 Screenshots
+<img width="1920" height="923" alt="image" src="https://github.com/user-attachments/assets/da5f45ad-79f5-4541-bc35-4ad6de2e9280" />
+<img width="1920" height="916" alt="image" src="https://github.com/user-attachments/assets/e8bfc89c-7174-4d7c-afe6-425d579eb2c4" />
 
-Add your project screenshots here
-
-📌 Example:
-![Home Page](./screenshots/home.png)
-![Task View](./screenshots/tasks.png)
 🚀 How to Run This Project
 1. Clone the repository
 git clone https://github.com/your-username/your-repo-name.git
@@ -78,6 +76,7 @@ It helped me strengthen my skills in React development and real-world UI buildin
 👨‍💻 Developer
 
 Asma
+
 💼 Aspiring Full Stack Developer
 📚 B.Tech CSE Student
 🚀 Passionate about React & Web Development
